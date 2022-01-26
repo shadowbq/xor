@@ -16,3 +16,8 @@ https://crypto.stackexchange.com/questions/59/taking-advantage-of-one-time-pad-k
 
 The XOR cipher is often used in computer malware to make reverse engineering more difficult
 
+### Code Golf
+
+The really small versions of XOR ciphers
+
+https://stackoverflow.com/questions/3478954/code-golf-xor-encryption
